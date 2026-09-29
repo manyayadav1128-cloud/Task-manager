@@ -29,9 +29,9 @@ The application uses **Browser Local Storage** to maintain task data even after 
 
 Users can enter a task and add it to the task list.
 
-### ✏️ Edit Task
+### ✏️ Task Completion
 
-Users can modify an existing task whenever required.
+Users can mark tasks as completed or pending.
 
 ### ✅ Complete Task
 
