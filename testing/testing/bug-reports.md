@@ -1,16 +1,26 @@
 # Bug Reports
 
-## Testing Status
+## Current Testing Status
 
-No critical bugs have been identified during the current testing cycle.
+No bugs have been officially reported in the current testing cycle.
 
-If any defect is identified during future testing, it will be documented using the format below.
+The application is being tested for:
+
+- Functional issues
+- Input validation issues
+- UI behavior
+- Task state management
+- Local Storage behavior
+- Filtering functionality
+- Statistics and progress calculation
 
 ---
 
 ## Bug Report Format
 
-**Bug ID:** BUG-01
+If a defect is identified during testing, it will be documented using the following format.
+
+### BUG-01
 
 **Title:** 
 
